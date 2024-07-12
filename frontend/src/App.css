@@ -1,0 +1,12 @@
+.sm-text{
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;     
+}
+
+.lg-text{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 1.5625rem;
+    font-style: normal; 
+}
